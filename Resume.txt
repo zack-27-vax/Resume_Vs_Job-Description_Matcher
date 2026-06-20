@@ -1,0 +1,30 @@
+Sarah Johnson
+
+Email: sarah.johnson@email.com
+
+Education
+Bachelor of Arts in Linguistics
+University of Jordan
+2024
+
+Skills
+Python
+Pandas
+spaCy
+NLTK
+Regular Expressions
+JSON
+CSV
+Text Analysis
+Named Entity Recognition
+Sentiment Analysis
+
+Experience
+NLP Intern at DataMind Solutions
+Worked on customer review analysis and resume parsing projects.
+
+Projects
+Customer Review Analyzer
+Resume Analyzer
+Email Classifier
+Job Description Analyzer

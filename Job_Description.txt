@@ -1,0 +1,24 @@
+Junior NLP Analyst
+
+Requirements
+
+Python
+Pandas
+spaCy
+SQL
+Git
+GitHub
+Machine Learning
+Named Entity Recognition
+Sentiment Analysis
+
+Responsibilities
+
+Analyze text datasets.
+Build NLP pipelines.
+Extract entities from documents.
+Create reports and dashboards.
+Work with structured and unstructured data.
+
+Company: AI Future Technologies
+Posted: 2026
