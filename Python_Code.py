@@ -2,7 +2,7 @@ import spacy
 
 nlp = spacy.load("en_core_web_sm")
 
-with open("Big_Projects\Big_Projects\Resume vs Job Macher\Resume.txt") as file1:
+with open("Resume.txt") as file1:
   text1 = file1.read()
 
 with open("Big_Projects\Big_Projects\Resume vs Job Macher\Job_Description.txt") as file2:
